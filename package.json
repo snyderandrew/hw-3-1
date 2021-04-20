@@ -1,0 +1,22 @@
+{
+  "name": "hw-3-1",
+  "version": "1.0.0",
+  "description": "For this assignment, create a repository in git hub containing a working express server running on port 5001 with a console message stating 'Listening on PORT 5001'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyderandrew/hw-3-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/snyderandrew/hw-3-1/issues"
+  },
+  "homepage": "https://github.com/snyderandrew/hw-3-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
